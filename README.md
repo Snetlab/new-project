@@ -9,3 +9,7 @@
 9. ~ git push -u origin main
 10. ~ git checkout -b development
 11. ~ git branch -a
+12. ~ git checkout main
+13. ~ git branch -a  
+14. ~ git merge development
+15. ~ git log
