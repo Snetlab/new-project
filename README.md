@@ -7,3 +7,5 @@
 7. ~ git branch -M main
 8. ~ git remote add origin https://github.com/Snetlab/new-project.git
 9. ~ git push -u origin main
+10. ~ git checkout -b development
+11. ~ git branch -a
